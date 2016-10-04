@@ -1,0 +1,4 @@
+Shirt "Sample one" L ¬ 13,00
+(Just shirt sample)
+Shirt "Sample two" L ¬ 25,00
+(Just shirt sample)
